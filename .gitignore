@@ -1,0 +1,33 @@
+# Build output
+/build/
+/bin/
+/target/
+/out/
+
+# Eclipse files
+.settings/
+.classpath
+.project
+
+# VS Code files
+.vscode/
+
+# IntelliJ files
+*.iml
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Compiled classes and archives
+*.class
+*.jar
+*.war
+*.ear
+
+# OS files
+.DS_Store
+Thumbs.db
