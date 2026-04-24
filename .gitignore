@@ -27,7 +27,16 @@
 *.jar
 *.war
 *.ear
+*.zip
+*.tar.gz
+*.rar
+!src/main/webapp/WEB-INF/lib/*.jar
 
 # OS files
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 Thumbs.db
